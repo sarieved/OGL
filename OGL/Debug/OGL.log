@@ -1,0 +1,56 @@
+﻿  L12.cpp
+c:\users\sarie\desktop\ogl\ogl\l12.cpp(75): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+c:\users\sarie\desktop\ogl\ogl\l12.cpp(75): warning C4305: инициализация: усечение из "double" в "GLfloat"
+c:\users\sarie\desktop\ogl\ogl\l12.cpp(77): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+c:\users\sarie\desktop\ogl\ogl\l12.cpp(77): warning C4305: инициализация: усечение из "double" в "GLfloat"
+c:\users\sarie\desktop\ogl\ogl\l12.cpp(90): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+c:\users\sarie\desktop\ogl\ogl\l12.cpp(90): warning C4305: инициализация: усечение из "double" в "GLfloat"
+c:\users\sarie\desktop\ogl\ogl\l12.cpp(99): warning C4305: аргумент: усечение из "double" в "GLfloat"
+c:\users\sarie\desktop\ogl\ogl\l12.cpp(107): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+c:\users\sarie\desktop\ogl\ogl\l12.cpp(107): warning C4305: инициализация: усечение из "double" в "GLfloat"
+c:\users\sarie\desktop\ogl\ogl\l12.cpp(133): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\sarie\desktop\ogl\ogl\l12.cpp(134): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\sarie\desktop\ogl\ogl\l12.cpp(135): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\sarie\desktop\ogl\ogl\l12.cpp(146): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\sarie\desktop\ogl\ogl\l12.cpp(152): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+c:\users\sarie\desktop\ogl\ogl\l12.cpp(153): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+c:\users\sarie\desktop\ogl\ogl\l12.cpp(155): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+c:\users\sarie\desktop\ogl\ogl\l12.cpp(156): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+c:\users\sarie\desktop\ogl\ogl\l12.cpp(164): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\sarie\desktop\ogl\ogl\l12.cpp(165): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\sarie\desktop\ogl\ogl\l12.cpp(166): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\sarie\desktop\ogl\ogl\l12.cpp(177): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+c:\users\sarie\desktop\ogl\ogl\l12.cpp(177): warning C4305: инициализация: усечение из "double" в "GLfloat"
+c:\users\sarie\desktop\ogl\ogl\l12.cpp(178): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+c:\users\sarie\desktop\ogl\ogl\l12.cpp(178): warning C4305: инициализация: усечение из "double" в "GLfloat"
+c:\users\sarie\desktop\ogl\ogl\l12.cpp(179): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+c:\users\sarie\desktop\ogl\ogl\l12.cpp(179): warning C4305: инициализация: усечение из "double" в "GLfloat"
+c:\users\sarie\desktop\ogl\ogl\l12.cpp(184): warning C4305: аргумент: усечение из "double" в "GLfloat"
+c:\users\sarie\desktop\ogl\ogl\l12.cpp(185): warning C4305: аргумент: усечение из "double" в "GLfloat"
+c:\users\sarie\desktop\ogl\ogl\l12.cpp(186): warning C4305: аргумент: усечение из "double" в "GLfloat"
+c:\users\sarie\desktop\ogl\ogl\l12.cpp(189): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\sarie\desktop\ogl\ogl\l12.cpp(190): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\sarie\desktop\ogl\ogl\l12.cpp(191): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\sarie\desktop\ogl\ogl\l12.cpp(198): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+c:\users\sarie\desktop\ogl\ogl\l12.cpp(198): warning C4305: инициализация: усечение из "double" в "GLfloat"
+c:\users\sarie\desktop\ogl\ogl\l12.cpp(199): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+c:\users\sarie\desktop\ogl\ogl\l12.cpp(199): warning C4305: инициализация: усечение из "double" в "GLfloat"
+c:\users\sarie\desktop\ogl\ogl\l12.cpp(200): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+c:\users\sarie\desktop\ogl\ogl\l12.cpp(200): warning C4305: инициализация: усечение из "double" в "GLfloat"
+c:\users\sarie\desktop\ogl\ogl\l12.cpp(205): warning C4305: аргумент: усечение из "double" в "GLfloat"
+c:\users\sarie\desktop\ogl\ogl\l12.cpp(210): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\sarie\desktop\ogl\ogl\l12.cpp(211): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\sarie\desktop\ogl\ogl\l12.cpp(212): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\sarie\desktop\ogl\ogl\l12.cpp(219): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+c:\users\sarie\desktop\ogl\ogl\l12.cpp(219): warning C4305: инициализация: усечение из "double" в "GLfloat"
+c:\users\sarie\desktop\ogl\ogl\l12.cpp(220): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+c:\users\sarie\desktop\ogl\ogl\l12.cpp(220): warning C4305: инициализация: усечение из "double" в "GLfloat"
+c:\users\sarie\desktop\ogl\ogl\l12.cpp(221): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+c:\users\sarie\desktop\ogl\ogl\l12.cpp(221): warning C4305: инициализация: усечение из "double" в "GLfloat"
+c:\users\sarie\desktop\ogl\ogl\l12.cpp(225): warning C4305: аргумент: усечение из "double" в "GLfloat"
+c:\users\sarie\desktop\ogl\ogl\l12.cpp(226): warning C4305: аргумент: усечение из "double" в "GLfloat"
+c:\users\sarie\desktop\ogl\ogl\l12.cpp(227): warning C4305: аргумент: усечение из "double" в "GLfloat"
+c:\users\sarie\desktop\ogl\ogl\l12.cpp(230): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\sarie\desktop\ogl\ogl\l12.cpp(231): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\sarie\desktop\ogl\ogl\l12.cpp(232): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+  OGL.vcxproj -> C:\Users\sarie\Desktop\OGL\Debug\OGL.exe
